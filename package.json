@@ -1,0 +1,30 @@
+{
+  "name": "untitled1",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "connect": "3.6.5",
+    "cookie-parser": "~1.4.3",
+    "crypto": "1.0.1",
+    "csprng": "^0.1.2",
+    "debug": "~2.6.9",
+    "email-validator": "^1.1.1",
+    "express": "~4.15.5",
+    "formidable": "^1.1.1",
+    "gravatar": "1.6.0",
+    "jade": "~1.11.0",
+    "mime": "^2.2.0",
+    "moment": "^2.20.1",
+    "mongoose": "^4.13.9",
+    "morgan": "~1.9.0",
+    "multer": "^1.3.0",
+    "nodemailer": "4.4.1",
+    "routes": "^2.1.0",
+    "serve-favicon": "~2.4.5",
+    "xoauth2": "^1.2.0"
+  }
+}
